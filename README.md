@@ -137,7 +137,7 @@ Example:
 ## How to Use
 
 To experience the platform, visit:  
-**[SMART ENROLLMENT ASSISTANCE Demo](http://35.224.21.98:8080/login?next=%2F)**
+**[SMART ENROLLMENT ASSISTANCE Demo](https://tuvantuyensinh.space/)**
 
 <p align="center">
   <img src="assets/UI.jpg" alt="Trend Chart" width="600"/><br>
